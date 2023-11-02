@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mai Ibrahim Hetemy</h1><br>
 
 - :school: I am a `Senior` at [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode` and `HackerRank`.
-- :student: I am currently learning `Computer Science` and `Mobile app development`.<br>
-
+- :computer: I am a `competitive programmer` at [Codeforces](https://codeforces.com/profile/Mai_Hetemy), [LeetCode](https://leetcode.com/mai_hetemy/) and [HackerRank](https://www.hackerrank.com/profile/maihetemy).
+- :student: I am currently learning `Computer Science` and `Software Engineering`.<br>
+- :email: Connect with me: [Gmail](maihetemy@gmail.com) or [Linkedin](https://www.linkedin.com/in/mai-hetemy-533b65248/). 
+<!--
 <hr>
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/mai-hetemy-533b65248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mai-hetemy-533b65248/" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100006050388588&sk=about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100048783972642" height="30" width="40" /></a> &nbsp;&nbsp;
 </div>
-<!--
 **Maihetemy/Maihetemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
